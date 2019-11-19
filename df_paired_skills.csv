@@ -1,0 +1,991 @@
+,Paired Skills,Salary
+0,"Data Science,Microsoft SQL Server",139884
+1,"Data Science,Project Management",139840
+2,"Project Management,Tableau",135813
+3,"AI,Data Science",133571
+4,"Data Science,Hadoop",130537
+5,"Data Science,MATLAB",129191
+6,"Microsoft SQL Server,Project Management",128779
+7,"Data Science,SAS",127927
+8,"Data Science,Tableau",127824
+9,"AI,Microsoft SQL Server",125121
+10,"AI,Project Management",124358
+11,"Microsoft SQL Server,Tableau",123277
+12,"Data Science,TensorFlow",123038
+13,"Data Analysis,Data Science",122385
+14,"Hadoop,Microsoft SQL Server",120956
+15,"Data Science,Scripting",120157
+16,"Hadoop,Project Management",119954
+17,"Microsoft SQL Server,Spark",119583
+18,"Data Science,Shell Scripting",119530
+19,"Data Science,SQL",119498
+20,"MATLAB,Microsoft SQL Server",119263
+21,"Microsoft SQL Server,SAS",119258
+22,"MATLAB,Project Management",118649
+23,"Project Management,Spark",118581
+24,"Data Science,MySQL",117806
+25,"Data Science,Hive",117610
+26,"Microsoft SQL Server,SQL",117031
+27,"AI,Tableau",116893
+28,"Data Science,HBase",116652
+29,"Project Management,SAS",116538
+30,"Data Science,Natural Language Processing",116333
+31,"Project Management,SQL",115650
+32,"Project Management,TensorFlow",115030
+33,".Net,Data Science",114840
+34,"Data Science,R",114708
+35,"Data Science,Pig",114447
+36,"AI,Spark",113379
+37,"Data Science,Oracle",113355
+38,"Data Science,Kafka",113125
+39,"AI,MATLAB",113120
+40,"Data Analysis,Microsoft SQL Server",112839
+41,"Microsoft SQL Server,TensorFlow",112745
+42,"Data Science,Machine Learning",112549
+43,"Data Analysis,Project Management",112081
+44,"Hadoop,Tableau",111846
+45,"MATLAB,Tableau",111705
+46,"AI,SAS",111669
+47,"AI,Hadoop",111270
+48,"Data Science,Software Development",110715
+49,"Data Science,SPSS",110370
+50,"AI,Data Analysis",110346
+51,"SAS,Tableau",110187
+52,"Data Science,Microsoft Office",110151
+53,"Microsoft SQL Server,Shell Scripting",110072
+54,"Project Management,Scripting",109916
+55,"AI,SQL",109867
+56,"Hadoop,Spark",109811
+57,"Project Management,Shell Scripting",109070
+58,"Big Data,Microsoft SQL Server",108842
+59,"Microsoft SQL Server,MySQL",108512
+60,"SQL,Tableau",108284
+61,"Hive,Microsoft SQL Server",108153
+62,"AWS,Data Science",108149
+63,"Hadoop,MATLAB",108083
+64,"MySQL,Project Management",107880
+65,"Tableau,TensorFlow",107814
+66,"MATLAB,Spark",107752
+67,"Big Data,Project Management",107750
+68,"MATLAB,SAS",107714
+69,"SAS,Spark",107623
+70,"AI,TensorFlow",107607
+71,"Data Science,Linux",107378
+72,"HBase,Microsoft SQL Server",107194
+73,"Hive,Project Management",107128
+74,"Microsoft SQL Server,Scripting",106915
+75,"Data Science,Python",106913
+76,"Microsoft SQL Server,Natural Language Processing",106875
+77,"MySQL,Tableau",106869
+78,"Data Science,Java",106547
+79,"HBase,Project Management",106192
+80,"Hadoop,SQL",106132
+81,"Natural Language Processing,Project Management",105595
+82,"Business Intelligence,Data Science",105556
+83,".Net,Microsoft SQL Server",105383
+84,"Microsoft SQL Server,R",105202
+85,"Microsoft SQL Server,Oracle",105112
+86,"Data Science,Scala",105023
+87,"Microsoft SQL Server,Pig",104990
+88,"SAS,SQL",104854
+89,"MATLAB,SQL",104500
+90,".Net,Project Management",104381
+91,"Project Management,R",104052
+92,"Pig,Project Management",103965
+93,"AI,Scripting",103943
+94,"AI,Shell Scripting",103868
+95,"Machine Learning,Microsoft SQL Server",103811
+96,"Hadoop,Hive",103780
+97,"Azure,Data Science",103742
+98,"Kafka,Microsoft SQL Server",103668
+99,"SQL,Spark",103435
+100,"Scripting,Tableau",103113
+101,"Data Science,Data Warehouse",102871
+102,"Machine Learning,Project Management",102714
+103,"Kafka,Project Management",102666
+104,"AI,Big Data",102548
+105,"Shell Scripting,Tableau",102486
+106,"Big Data,Data Science",102466
+107,"Data Analysis,Hadoop",102451
+108,"AI,MySQL",102395
+109,"Data Science,PostgreSQL",102333
+110,"Microsoft SQL Server,SPSS",102220
+111,"Spark,TensorFlow",102099
+112,"Hadoop,TensorFlow",101952
+113,"AI,Hive",101948
+114,"Data Analysis,MATLAB",101210
+115,"Data Science,S3",101130
+116,"Microsoft SQL Server,Software Development",101102
+117,"Data Analysis,Spark",101101
+118,"Data Analysis,SAS",101096
+119,"AI,HBase",100990
+120,"AWS,Microsoft SQL Server",100760
+121,"Microsoft Office,Microsoft SQL Server",100694
+122,"AI,Natural Language Processing",100671
+123,"Big Data,Tableau",100631
+124,"Hive,Tableau",100566
+125,"SAS,TensorFlow",100396
+126,"Hadoop,Scripting",100091
+127,"Project Management,Software Development",99977
+128,"Project Management,SPSS",99911
+129,"AWS,Project Management",99675
+130,"HBase,Tableau",99608
+131,"Microsoft SQL Server,Perl",99526
+132,"Hadoop,Shell Scripting",99513
+133,"Microsoft Office,Project Management",99511
+134,"Perl,Project Management",99381
+135,"SQL,TensorFlow",99352
+136,"Natural Language Processing,Tableau",99178
+137,".Net,AI",99178
+138,"MATLAB,TensorFlow",99042
+139,"AI,R",98998
+140,"Data Science,Spark",98943
+141,"AI,Pig",98785
+142,"Scripting,Spark",98718
+143,"MATLAB,Scripting",98587
+144,"Hadoop,MySQL",98292
+145,"SAS,Scripting",98136
+146,"Shell Scripting,Spark",98091
+147,"Data Analysis,SQL",97917
+148,".Net,Tableau",97796
+149,"SAS,Shell Scripting",97644
+150,"R,Tableau",97551
+151,"AI,Machine Learning",97511
+152,"AI,Kafka",97463
+153,"Pig,Tableau",97403
+154,"Big Data,Hadoop",97366
+155,"Linux,Microsoft SQL Server",97321
+156,"Project Management,Python",97317
+157,"Data Science,Perl",97259
+158,"MySQL,Spark",97171
+159,"Linux,Project Management",97044
+160,"Hive,Spark",97008
+161,"Big Data,MATLAB",96921
+162,"AI,Oracle",96893
+163,"MATLAB,MySQL",96570
+164,"Hadoop,Natural Language Processing",96519
+165,"Big Data,SAS",96513
+166,"Oracle,Tableau",96491
+167,"MySQL,SAS",96353
+168,"Java,Microsoft SQL Server",96346
+169,"Hive,MATLAB",96321
+170,"Data Warehouse,Microsoft SQL Server",96218
+171,"Machine Learning,Tableau",96129
+172,"SQL,Scripting",96087
+173,"Kafka,Tableau",96018
+174,"HBase,Hadoop",96002
+175,"Big Data,Spark",95914
+176,"Hive,SAS",95913
+177,"Java,Tableau",95885
+178,"MATLAB,Shell Scripting",95611
+179,"Azure,Microsoft SQL Server",95589
+180,"SQL,Shell Scripting",95539
+181,"Java,Project Management",95430
+182,"HBase,MATLAB",95363
+183,"Business Intelligence,Microsoft SQL Server",95347
+184,"HBase,Spark",95213
+185,"Data Warehouse,Project Management",95128
+186,"MATLAB,Natural Language Processing",95044
+187,"HBase,SAS",94955
+188,"Natural Language Processing,Spark",94894
+189,"AI,AWS",94870
+190,"AI,Software Development",94825
+191,".Net,Hadoop",94774
+192,"Natural Language Processing,SAS",94684
+193,"Business Intelligence,Project Management",94677
+194,"Hadoop,R",94530
+195,"Data Analysis,TensorFlow",94523
+196,"Data Analysis,Tableau",94522
+197,"AI,Microsoft Office",94489
+198,"Hadoop,Pig",94381
+199,"MySQL,SQL",94349
+200,"Microsoft SQL Server,Scala",94228
+201,"Microsoft SQL Server,PostgreSQL",94225
+202,"Big Data,SQL",94219
+203,"AI,Java",94134
+204,"Microsoft Office,SAS",93743
+205,"Hive,SQL",93619
+206,"Hadoop,Oracle",93581
+207,".Net,MATLAB",93551
+208,"Azure,Project Management",93492
+209,"Software Development,Tableau",93432
+210,".Net,Spark",93402
+211,"MATLAB,R",93371
+212,"Project Management,Scala",93331
+213,"Microsoft SQL Server,Python",93302
+214,"Hadoop,Kafka",93268
+215,"R,Spark",93221
+216,"MATLAB,Pig",93159
+217,".Net,SAS",93143
+218,"Hadoop,Machine Learning",93107
+219,"AI,Perl",93089
+220,"SPSS,Tableau",93027
+221,"Pig,Spark",93009
+222,"Python,SQL",92892
+223,"Scripting,TensorFlow",92852
+224,"R,SAS",92800
+225,"Pig,SAS",92750
+226,"Perl,Tableau",92685
+227,"HBase,SQL",92661
+228,"Natural Language Processing,SQL",92356
+229,"Microsoft Office,Tableau",92287
+230,"Data Analysis,Scripting",92218
+231,"Oracle,Spark",92172
+232,"MATLAB,Microsoft Office",92142
+233,"Kafka,Spark",91895
+234,"Kafka,MATLAB",91836
+235,"MATLAB,Machine Learning",91818
+236,"S3,Spark",91755
+237,"Machine Learning,Spark",91735
+238,"Microsoft SQL Server,S3",91673
+239,"Data Analysis,Shell Scripting",91482
+240,"Machine Learning,SAS",91477
+241,"Kafka,SAS",91428
+242,"Oracle,SAS",91338
+243,"Big Data,TensorFlow",91297
+244,"Hadoop,SPSS",91111
+245,"MATLAB,Oracle",91097
+246,"Business Intelligence,Hadoop",91020
+247,"MySQL,TensorFlow",91017
+248,".Net,SQL",90849
+249,"Business Intelligence,Spark",90815
+250,"R,SQL",90754
+251,"Project Management,S3",90671
+252,"PostgreSQL,Tableau",90628
+253,"SAS,SPSS",90624
+254,"Hive,TensorFlow",90620
+255,"Hadoop,Software Development",90520
+256,"Pig,SQL",90456
+257,"PostgreSQL,Project Management",90423
+258,"Microsoft Office,Spark",90298
+259,"AWS,SAS",90195
+260,"Big Data,Data Analysis",90138
+261,"Hadoop,Microsoft Office",90085
+262,"Natural Language Processing,TensorFlow",90038
+263,"Hadoop,Perl",89888
+264,"Data Science,MongoDB",89857
+265,"Oracle,Project Management",89828
+266,"AWS,Hadoop",89799
+267,"AI,Business Intelligence",89730
+268,"Data Warehouse,Tableau",89712
+269,"Data Analysis,Hive",89671
+270,"HBase,TensorFlow",89661
+271,"MATLAB,Software Development",89279
+272,"Data Analysis,MySQL",89229
+273,"Shell Scripting,TensorFlow",89203
+274,"Machine Learning,SQL",89182
+275,"Kafka,SQL",89134
+276,"AI,Python",89114
+277,"Software Development,Spark",89049
+278,"SPSS,Spark",88932
+279,"Scripting,Shell Scripting",88921
+280,"AWS,MATLAB",88899
+281,"MATLAB,SPSS",88894
+282,"SAS,Software Development",88791
+283,"Data Analysis,HBase",88712
+284,"AWS,Spark",88696
+285,"AI,PostgreSQL",88663
+286,"MATLAB,Perl",88552
+287,"Business Intelligence,Tableau",88398
+288,"Data Analysis,Natural Language Processing",88393
+289,"AI,Azure",88252
+290,"AI,Scala",88149
+291,"SPSS,SQL",88130
+292,"Hadoop,Linux",88018
+293,"Python,R",87995
+294,"Perl,SAS",87963
+295,"Data Analysis,R",87928
+296,"Big Data,Scripting",87887
+297,"MySQL,Scripting",87865
+298,".Net,TensorFlow",87850
+299,"R,TensorFlow",87751
+300,"AI,Linux",87652
+301,"Pig,TensorFlow",87457
+302,"MySQL,Shell Scripting",87390
+303,"Hive,Scripting",87216
+304,"AI,Data Warehouse",87209
+305,"Big Data,Shell Scripting",87112
+306,".Net,Data Analysis",86901
+307,"Perl,Spark",86876
+308,"Oracle,TensorFlow",86732
+309,"C/C++,Data Science",86678
+310,"Hive,Shell Scripting",86660
+311,"Scala,Tableau",86640
+312,"Azure,Tableau",86622
+313,"Data Analysis,Pig",86508
+314,"SQL,Software Development",86448
+315,"MATLAB,Python",86391
+316,"Python,Spark",86379
+317,"Excel,Microsoft SQL Server",86337
+318,"HBase,Scripting",86329
+319,"Linux,Spark",86225
+320,"Linux,MATLAB",86215
+321,"Machine Learning,TensorFlow",86183
+322,"Kafka,TensorFlow",86135
+323,"Python,Tableau",86130
+324,"Microsoft Office,SQL",86071
+325,"Big Data,MySQL",86070
+326,"Linux,SAS",85917
+327,"AWS,Data Analysis",85808
+328,"HBase,Shell Scripting",85702
+329,"Data Analysis,Oracle",85631
+330,"Natural Language Processing,Scripting",85612
+331,"Perl,SQL",85533
+332,"Hive,MySQL",85470
+333,"AI,S3",85468
+334,"Natural Language Processing,Shell Scripting",85383
+335,"Hadoop,PostgreSQL",85355
+336,"Big Data,Hive",85316
+337,"Azure,Hadoop",85265
+338,"Data Analysis,Kafka",85133
+339,"AWS,Tableau",84564
+340,"Java,MATLAB",84552
+341,".Net,Scripting",84518
+342,"HBase,MySQL",84512
+343,"Java,Spark",84402
+344,"Big Data,HBase",84382
+345,"R,Scripting",84269
+346,"AI,SPSS",84207
+347,"S3,Tableau",84165
+348,"Java,SAS",84144
+349,"Pig,Scripting",84125
+350,"Business Intelligence,SAS",84088
+351,"MySQL,Natural Language Processing",84086
+352,"Big Data,Natural Language Processing",84063
+353,"Software Development,TensorFlow",83901
+354,"MATLAB,Scala",83894
+355,".Net,Shell Scripting",83890
+356,"R,Shell Scripting",83786
+357,"Hadoop,SAS",83782
+358,"Data Science,NoSQL",83759
+359,"Hadoop,S3",83711
+360,"NoSQL,Tableau",83685
+361,"AWS,Business Intelligence",83641
+362,"Oracle,Shell Scripting",83616
+363,"Business Intelligence,MATLAB",83515
+364,"Pig,Shell Scripting",83497
+365,"Data Warehouse,SQL",83460
+366,"AWS,TensorFlow",83446
+367,"SPSS,TensorFlow",83443
+368,"Hadoop,Scala",83373
+369,"Hive,Natural Language Processing",83350
+370,"Linux,SQL",83314
+371,"AWS,SQL",83213
+372,"MySQL,R",83201
+373,"Microsoft Office,TensorFlow",83161
+374,"HBase,Hive",83077
+375,"Oracle,Scripting",82989
+376,"Kafka,Scripting",82893
+377,"Perl,TensorFlow",82882
+378,"Machine Learning,Scripting",82851
+379,"Data Warehouse,Hadoop",82804
+380,"Azure,Spark",82795
+381,"Business Intelligence,Oracle",82711
+382,".Net,MySQL",82701
+383,"MATLAB,PostgreSQL",82669
+384,"Azure,MATLAB",82625
+385,"PostgreSQL,SAS",82579
+386,".Net,Big Data",82570
+387,"Data Analysis,Software Development",82529
+388,"PostgreSQL,Spark",82519
+389,"HBase,Natural Language Processing",82505
+390,"Big Data,R",82390
+391,"MySQL,Pig",82308
+392,"Scala,Spark",82273
+393,"Azure,SAS",82232
+394,"Machine Learning,Shell Scripting",82223
+395,"Data Analysis,Microsoft Office",82212
+396,"Kafka,Shell Scripting",82175
+397,"Big Data,Pig",82154
+398,"Data Analysis,Machine Learning",82140
+399,".Net,Hive",81971
+400,"Data Analysis,Perl",81901
+401,"Java,SQL",81850
+402,"Hive,Pig",81803
+403,"Hive,R",81790
+404,"Data Science,Excel",81681
+405,"Python,SPSS",81607
+406,"Data Warehouse,MATLAB",81582
+407,"Data Warehouse,Spark",81432
+408,"Spark,Tableau",81377
+409,"Data Warehouse,SAS",81174
+410,".Net,HBase",81012
+411,"Excel,SQL",80998
+412,"Machine Learning,MySQL",80952
+413,"Big Data,Machine Learning",80904
+414,"Big Data,Kafka",80855
+415,"HBase,R",80832
+416,"Kafka,MySQL",80815
+417,"Business Intelligence,SQL",80813
+418,"Python,TensorFlow",80810
+419,".Net,Natural Language Processing",80693
+420,"Natural Language Processing,R",80668
+421,"Hive,Oracle",80665
+422,"Microsoft SQL Server,MongoDB",80630
+423,"HBase,Pig",80619
+424,"MySQL,Oracle",80618
+425,"Excel,Tableau",80401
+426,"Data Science,JavaScript",80334
+427,"Hive,Machine Learning",80304
+428,"Natural Language Processing,Pig",80300
+429,"Machine Learning,Natural Language Processing",80254
+430,"Scripting,Software Development",80137
+431,"AI,Excel",80073
+432,"SPSS,Scripting",79953
+433,"Azure,SQL",79923
+434,"Big Data,Oracle",79854
+435,"MATLAB,S3",79842
+436,"Microsoft Office,Scripting",79829
+437,"SQL,Scala",79816
+438,"AWS,Scripting",79812
+439,"Oracle,SQL",79753
+440,"HBase,Oracle",79707
+441,"Shell Scripting,Software Development",79679
+442,"SPSS,Shell Scripting",79537
+443,"Perl,Scripting",79518
+444,"Data Analysis,Linux",79481
+445,"S3,SAS",79434
+446,"Natural Language Processing,Oracle",79429
+447,"HBase,Machine Learning",79345
+448,"HBase,Kafka",79297
+449,"AWS,Shell Scripting",79215
+450,"Microsoft Office,Shell Scripting",79201
+451,"Kafka,Natural Language Processing",79145
+452,".Net,R",79020
+453,"PostgreSQL,SQL",78981
+454,"Perl,Shell Scripting",78891
+455,"Hive,Kafka",78876
+456,"C/C++,Microsoft SQL Server",78855
+457,"Java,TensorFlow",78850
+458,".Net,Pig",78808
+459,"Pig,R",78627
+460,"MySQL,Software Development",78373
+461,"Linux,TensorFlow",78338
+462,"Business Intelligence,TensorFlow",78282
+463,"MongoDB,Project Management",78216
+464,"MySQL,SPSS",78194
+465,"Big Data,Software Development",78140
+466,"Microsoft Office,MySQL",78135
+467,"Big Data,SPSS",78101
+468,"Data Analysis,Java",78069
+469,"AWS,MySQL",77920
+470,".Net,Oracle",77896
+471,"Big Data,Microsoft Office",77881
+472,"MySQL,Perl",77701
+473,"Oracle,R",77622
+474,"Hive,Software Development",77618
+475,".Net,Machine Learning",77534
+476,"Oracle,Pig",77503
+477,"Hive,SPSS",77501
+478,".Net,Kafka",77486
+479,"Machine Learning,R",77353
+480,"Big Data,Perl",77327
+481,"Kafka,R",77305
+482,"Hive,Microsoft Office",77282
+483,"Linux,Scripting",77181
+484,"Machine Learning,Pig",77141
+485,"Kafka,Pig",77093
+486,"AWS,Hive",77041
+487,"S3,SQL",77040
+488,"Python,Scripting",77002
+489,"Python,SAS",76992
+490,"Hive,Perl",76971
+491,"Scala,TensorFlow",76936
+492,"PostgreSQL,TensorFlow",76900
+493,"Azure,TensorFlow",76895
+494,"Python,Shell Scripting",76868
+495,"C/C++,Project Management",76733
+496,"HBase,Software Development",76660
+497,"Linux,Shell Scripting",76629
+498,"Natural Language Processing,Software Development",76625
+499,"MySQL,Python",76612
+500,"HBase,SPSS",76542
+501,"Natural Language Processing,SPSS",76524
+502,"Excel,Hadoop",76500
+503,"HBase,Microsoft Office",76323
+504,"AWS,HBase",76307
+505,"Machine Learning,Oracle",76229
+506,"Kafka,Oracle",76180
+507,"Data Analysis,PostgreSQL",76167
+508,"Data Warehouse,TensorFlow",76120
+509,"AWS,Natural Language Processing",76075
+510,"HBase,Perl",76013
+511,"Microsoft Office,Natural Language Processing",75982
+512,"Linux,MySQL",75956
+513,"AWS,Machine Learning",75871
+514,"Kafka,Machine Learning",75819
+515,"AWS,Big Data",75785
+516,"Data Analysis,Scala",75772
+517,"Natural Language Processing,Perl",75694
+518,"Big Data,Python",75519
+519,"Java,Scripting",75518
+520,"Hadoop,Java",75496
+521,"Data Analysis,Python",75249
+522,"Big Data,Linux",75120
+523,"Data Science,Git",74977
+524,"Data Analysis,Data Warehouse",74931
+525,"Azure,Data Analysis",74913
+526,"Java,Shell Scripting",74891
+527,".Net,Software Development",74848
+528,".Net,SPSS",74731
+529,"Excel,R",74684
+530,"Excel,MATLAB",74595
+531,"R,SPSS",74550
+532,".Net,Microsoft Office",74512
+533,"R,Software Development",74501
+534,"Big Data,Business Intelligence",74500
+535,".Net,AWS",74495
+536,"AWS,MongoDB",74490
+537,"Business Intelligence,Scripting",74482
+538,"Pig,Software Development",74455
+539,"Business Intelligence,Data Analysis",74429
+540,"Pig,SPSS",74338
+541,"Microsoft Office,R",74331
+542,"AWS,Oracle",74324
+543,"NoSQL,Spark",74316
+544,"AWS,R",74315
+545,"Business Intelligence,Microsoft Office",74226
+546,"AI,MongoDB",74215
+547,".Net,Perl",74201
+548,"Java,MySQL",74157
+549,"S3,TensorFlow",74140
+550,"Microsoft Office,Pig",74119
+551,"AWS,Pig",74102
+552,"Perl,R",74021
+553,"Business Intelligence,Shell Scripting",73884
+554,"Azure,Scripting",73850
+555,"HBase,Linux",73827
+556,"Perl,Pig",73809
+557,"Hive,Linux",73733
+558,"HBase,Python",73718
+559,"PostgreSQL,Scripting",73635
+560,"Oracle,Software Development",73592
+561,"Big Data,Java",73571
+562,"AWS,Scala",73476
+563,"Natural Language Processing,Python",73452
+564,"Oracle,SPSS",73426
+565,"SAS,Scala",73401
+566,"Hive,Python",73400
+567,"Scala,Scripting",73389
+568,"MongoDB,Tableau",73369
+569,"Linux,Natural Language Processing",73357
+570,"Data Analysis,S3",73191
+571,"Machine Learning,Software Development",73181
+572,"Microsoft SQL Server,NoSQL",73177
+573,"Kafka,Software Development",73133
+574,"Scala,Shell Scripting",73089
+575,"Hadoop,NoSQL",73072
+576,"Machine Learning,SPSS",73064
+577,"PostgreSQL,Shell Scripting",73008
+578,"Data Warehouse,Scripting",72998
+579,"Kafka,SPSS",72993
+580,"Azure,Shell Scripting",72964
+581,"Hadoop,Python",72848
+582,"Machine Learning,Microsoft Office",72845
+583,"Hive,Java",72835
+584,"Kafka,Microsoft Office",72797
+585,"AWS,Kafka",72780
+586,"Machine Learning,Perl",72495
+587,"Kafka,Perl",72486
+588,"Business Intelligence,Hive",72294
+589,"Oracle,Perl",72290
+590,".Net,Python",72178
+591,"AI,C/C++",72128
+592,"MySQL,Scala",72121
+593,"Microsoft Office,Oracle",72100
+594,"HBase,Java",72013
+595,"Data Warehouse,Shell Scripting",71947
+596,"Data Analysis,SPSS",71923
+597,"Azure,MySQL",71893
+598,".Net,Linux",71864
+599,"Pig,Python",71785
+600,"Big Data,PostgreSQL",71670
+601,"Microsoft Office,SPSS",71584
+602,"Java,Natural Language Processing",71482
+603,"Linux,Pig",71471
+604,"Linux,R",71461
+605,"Big Data,Scala",71442
+606,"NoSQL,Project Management",71430
+607,"AWS,Azure",71346
+608,"Java,Machine Learning",71292
+609,"MySQL,PostgreSQL",71258
+610,"AWS,Microsoft Office",71166
+611,"Hive,PostgreSQL",71088
+612,"Azure,Hive",71044
+613,"Data Warehouse,MySQL",71034
+614,"Business Intelligence,HBase",70976
+615,"Hive,Scala",70842
+616,"S3,Scripting",70808
+617,"Business Intelligence,Natural Language Processing",70702
+618,"C/C++,Tableau",70691
+619,"Big Data,Data Warehouse",70601
+620,"Machine Learning,Python",70511
+621,"Excel,Linux",70468
+622,"Kafka,Python",70463
+623,"Excel,Spark",70380
+624,"Perl,Software Development",70330
+625,"Linux,Oracle",70321
+626,".Net,Java",70201
+627,"Linux,Machine Learning",70197
+628,"S3,Shell Scripting",70180
+629,"AWS,Software Development",70172
+630,"Microsoft Office,Software Development",70159
+631,"HBase,PostgreSQL",70130
+632,"SPSS,Software Development",70121
+633,"Azure,HBase",70086
+634,"Natural Language Processing,Scala",70027
+635,"AWS,SPSS",70025
+636,"Perl,SPSS",70025
+637,"Java,R",70021
+638,"Data Warehouse,Hive",70001
+639,"Azure,Big Data",69940
+640,"Hadoop,MongoDB",69811
+641,"Java,Pig",69795
+642,"Azure,Natural Language Processing",69767
+643,"AWS,Perl",69709
+644,"Natural Language Processing,PostgreSQL",69690
+645,"Kafka,Linux",69665
+646,"MySQL,S3",69665
+647,"Microsoft Office,Perl",69512
+648,"JavaScript,Microsoft SQL Server",69403
+649,"C/C++,Hadoop",69229
+650,".Net,Business Intelligence",69165
+651,"Data Warehouse,HBase",69043
+652,"JavaScript,Project Management",68998
+653,"Business Intelligence,R",68984
+654,"Excel,TensorFlow",68940
+655,"Java,Oracle",68896
+656,"Big Data,S3",68861
+657,"Business Intelligence,Pig",68772
+658,"Data Warehouse,Natural Language Processing",68724
+659,"Java,Perl",68657
+660,"MongoDB,Spark",68623
+661,"MATLAB,MongoDB",68588
+662,"Java,Kafka",68486
+663,".Net,PostgreSQL",68318
+664,".Net,Azure",68274
+665,"Hive,S3",68261
+666,"PostgreSQL,R",68260
+667,"MongoDB,SAS",68180
+668,"Azure,R",68110
+669,"HBase,Scala",68082
+670,".Net,Scala",68072
+671,"Pig,PostgreSQL",67925
+672,"R,Scala",67892
+673,"Azure,Pig",67881
+674,"Oracle,Python",67856
+675,"Python,Software Development",67790
+676,"Data Warehouse,Oracle",67706
+677,"Pig,Scala",67679
+678,"Business Intelligence,Machine Learning",67557
+679,"AWS,Python",67557
+680,"AWS,Linux",67494
+681,"Linux,Software Development",67469
+682,"Business Intelligence,Kafka",67450
+683,"Business Intelligence,Linux",67380
+684,"HBase,S3",67302
+685,"PostgreSQL,SPSS",67272
+686,"Linux,Microsoft Office",67247
+687,".Net,Data Warehouse",67231
+688,"Machine Learning,Scala",67146
+689,"Data Warehouse,R",67051
+690,"PostgreSQL,Python",67048
+691,"Natural Language Processing,S3",66984
+692,"C/C++,Spark",66953
+693,"Azure,Machine Learning",66940
+694,"Linux,Perl",66865
+695,"C/C++,MATLAB",66849
+696,"Data Warehouse,Pig",66838
+697,"Linux,SPSS",66779
+698,"Oracle,Scala",66767
+699,"Machine Learning,PostgreSQL",66750
+700,"Azure,Oracle",66720
+701,"AI,NoSQL",66673
+702,"Kafka,PostgreSQL",66603
+703,"Azure,Kafka",66559
+704,"Oracle,PostgreSQL",66496
+705,"Kafka,Scala",66357
+706,"Linux,Tableau",66141
+707,"MongoDB,SQL",65886
+708,"Excel,Oracle",65831
+709,"Java,Software Development",65784
+710,"Data Warehouse,Kafka",65706
+711,"Java,SPSS",65691
+712,"Excel,Scripting",65623
+713,"Data Warehouse,Machine Learning",65564
+714,"Java,Microsoft Office",65512
+715,"AWS,Java",65495
+716,".Net,S3",65491
+717,"JavaScript,SQL",65413
+718,"R,S3",65310
+719,"Java,Python",65235
+720,"Perl,Scala",65139
+721,"Pig,S3",65098
+722,"C/C++,SAS",65097
+723,"Excel,Shell Scripting",65079
+724,"Business Intelligence,Software Development",64952
+725,"Microsoft Office,Scala",64854
+726,"Business Intelligence,SPSS",64695
+727,"Linux,Python",64660
+728,"Git,Microsoft SQL Server",64606
+729,"Hadoop,JavaScript",64513
+730,"Perl,Python",64455
+731,"Business Intelligence,Perl",64322
+732,"Oracle,S3",64186
+733,"AWS,PostgreSQL",64132
+734,"Perl,PostgreSQL",63947
+735,"PostgreSQL,Software Development",63939
+736,"Azure,Software Development",63922
+737,"Machine Learning,S3",63824
+738,"Azure,SPSS",63804
+739,"AI,JavaScript",63795
+740,"C/C++,SQL",63793
+741,"Kafka,S3",63776
+742,"Scala,Software Development",63719
+743,"Microsoft Office,PostgreSQL",63546
+744,"Azure,Microsoft Office",63535
+745,"C/C++,TensorFlow",63296
+746,"Azure,Perl",63275
+747,"MongoDB,TensorFlow",63262
+748,"SPSS,Scala",63098
+749,"Big Data,Excel",63096
+750,"Excel,Hive",63014
+751,"Data Warehouse,Software Development",62992
+752,"Data Analysis,Excel",62943
+753,"Java,Linux",62864
+754,"Data Warehouse,SPSS",62761
+755,"AWS,S3",62642
+756,"Business Intelligence,MySQL",62627
+757,"Data Warehouse,Microsoft Office",62542
+758,"AWS,Data Warehouse",62526
+759,"Data Warehouse,Perl",62232
+760,"Excel,HBase",62055
+761,"Data Analysis,MongoDB",62035
+762,"Excel,MySQL",61943
+763,"JavaScript,Tableau",61764
+764,"Excel,Natural Language Processing",61713
+765,"Azure,Python",61618
+766,"AWS,Excel",61552
+767,"Data Warehouse,Python",61337
+768,"S3,Software Development",61138
+769,"S3,SPSS",61021
+770,"MATLAB,NoSQL",60997
+771,"Linux,PostgreSQL",60982
+772,"Git,Project Management",60965
+773,"Azure,Linux",60938
+774,"Microsoft Office,S3",60802
+775,"Linux,Scala",60736
+776,"NoSQL,SAS",60691
+777,"Perl,S3",60492
+778,"Java,Scala",60391
+779,".Net,Excel",60244
+780,"C/C++,Data Analysis",60088
+781,"Business Intelligence,Java",60041
+782,"Python,Scala",60015
+783,"Data Warehouse,Linux",59895
+784,"Excel,Pig",59851
+785,"MongoDB,Scripting",59687
+786,"Azure,Java",59275
+787,"JavaScript,Spark",59228
+788,"AI,Git",59156
+789,"Java,PostgreSQL",59129
+790,"MongoDB,Shell Scripting",58927
+791,"Data Warehouse,Java",58791
+792,"Excel,Software Development",58722
+793,"Business Intelligence,Scala",58678
+794,"Excel,Machine Learning",58577
+795,"Excel,Kafka",58529
+796,"Python,S3",58468
+797,"Business Intelligence,PostgreSQL",58375
+798,"Microsoft Office,Python",58328
+799,"NoSQL,SQL",58303
+800,"Azure,Business Intelligence",58238
+801,"JavaScript,MATLAB",58208
+802,"Linux,S3",58154
+803,"JavaScript,SAS",58025
+804,"NoSQL,TensorFlow",58002
+805,"C/C++,Scripting",57768
+806,"Excel,Project Management",57763
+807,"Big Data,MongoDB",57607
+808,"C/C++,Shell Scripting",57590
+809,"Excel,Scala",57416
+810,"Azure,PostgreSQL",57386
+811,"PostgreSQL,Scala",57242
+812,"Azure,Scala",57210
+813,"Business Intelligence,Data Warehouse",57195
+814,"Hive,MongoDB",57007
+815,"Azure,Data Warehouse",56602
+816,"Java,S3",56491
+817,"Data Warehouse,Scala",56103
+818,"HBase,MongoDB",56049
+819,"C/C++,MySQL",55852
+820,"S3,Scala",55802
+821,"Big Data,C/C++",55739
+822,"MongoDB,Natural Language Processing",55730
+823,"Business Intelligence,S3",55665
+824,"Data Warehouse,PostgreSQL",55642
+825,"Excel,Microsoft Office",55555
+826,"Excel,SPSS",55390
+827,"Excel,Perl",55245
+828,"C/C++,Hive",55234
+829,"Business Intelligence,Python",54896
+830,"PostgreSQL,S3",54888
+831,"Azure,S3",54565
+832,"C/C++,Natural Language Processing",54447
+833,"Data Analysis,NoSQL",54396
+834,"C/C++,HBase",54350
+835,"Excel,Java",54309
+836,".Net,MongoDB",54238
+837,"MongoDB,R",54057
+838,"MongoDB,Pig",53845
+839,"Data Warehouse,S3",53522
+840,"Git,Hadoop",53313
+841,"Excel,SAS",53178
+842,"Git,MATLAB",53114
+843,"JavaScript,TensorFlow",53055
+844,"Git,SAS",53024
+845,"MongoDB,Oracle",52933
+846,"Kafka,MongoDB",52814
+847,"Machine Learning,MongoDB",52571
+848,".Net,C/C++",52539
+849,"C/C++,Pig",52254
+850,"C/C++,R",52013
+851,"NoSQL,Shell Scripting",51988
+852,"Git,Spark",51961
+853,"NoSQL,Scripting",51960
+854,"MongoDB,MySQL",51896
+855,"MySQL,NoSQL",51576
+856,"Data Analysis,JavaScript",51518
+857,"C/C++,Machine Learning",51475
+858,"C/C++,Kafka",50912
+859,"MongoDB,Perl",50882
+860,"Big Data,NoSQL",50802
+861,"C/C++,Oracle",50778
+862,"Excel,PostgreSQL",50693
+863,"JavaScript,Shell Scripting",50554
+864,"MongoDB,Software Development",49885
+865,"Data Warehouse,Excel",49707
+866,"MongoDB,SPSS",49706
+867,"Microsoft Office,MongoDB",49549
+868,"Hive,NoSQL",49466
+869,"Azure,Excel",49304
+870,"JavaScript,Natural Language Processing",49280
+871,"JavaScript,Scripting",49135
+872,"AWS,C/C++",48993
+873,"Business Intelligence,Excel",48718
+874,"Git,SQL",48610
+875,"HBase,NoSQL",48507
+876,"C/C++,Software Development",48495
+877,"NoSQL,Oracle",48354
+878,"C/C++,Microsoft Office",48294
+879,"Natural Language Processing,NoSQL",48189
+880,"Git,TensorFlow",48101
+881,"C/C++,SPSS",47962
+882,"Excel,Python",47906
+883,"C/C++,Perl",47750
+884,"JavaScript,MySQL",47318
+885,"Big Data,JavaScript",47091
+886,"Linux,MongoDB",46901
+887,"MongoDB,Python",46803
+888,".Net,NoSQL",46696
+889,"C/C++,Python",46684
+890,"Hive,JavaScript",46618
+891,"Excel,S3",46534
+892,"NoSQL,R",46366
+893,"NoSQL,Pig",46303
+894,"Data Analysis,Git",46072
+895,"Linux,NoSQL",46002
+896,"C/C++,Java",45845
+897,"HBase,JavaScript",45629
+898,"C/C++,Linux",45586
+899,"Java,MongoDB",45238
+900,"Kafka,NoSQL",45136
+901,"Machine Learning,NoSQL",45029
+902,"MongoDB,Scala",44356
+903,"Business Intelligence,MongoDB",44202
+904,"JavaScript,R",44062
+905,"Git,Tableau",43820
+906,".Net,JavaScript",43818
+907,"JavaScript,Machine Learning",43795
+908,"Git,Scripting",43727
+909,"Azure,MongoDB",43497
+910,"JavaScript,Pig",43425
+911,"Business Intelligence,C/C++",43158
+912,"Git,Shell Scripting",43062
+913,"JavaScript,Perl",42865
+914,"JavaScript,Oracle",42659
+915,"MongoDB,PostgreSQL",42627
+916,"C/C++,Scala",42481
+917,"NoSQL,Software Development",42341
+918,"Data Warehouse,MongoDB",42268
+919,"JavaScript,Kafka",42103
+920,"AWS,NoSQL",42090
+921,"Microsoft Office,NoSQL",42007
+922,"NoSQL,SPSS",41921
+923,"Big Data,Git",41742
+924,"NoSQL,Perl",41697
+925,"Azure,C/C++",41658
+926,"Business Intelligence,NoSQL",41627
+927,"C/C++,PostgreSQL",41575
+928,"Git,MySQL",41333
+929,"Git,Hive",41142
+930,"MongoDB,S3",40528
+931,"C/C++,Data Warehouse",40514
+932,"Git,Natural Language Processing",40191
+933,"Git,HBase",40184
+934,"JavaScript,Software Development",39992
+935,"JavaScript,SPSS",39552
+936,"AWS,JavaScript",39265
+937,"JavaScript,Microsoft Office",39230
+938,"C/C++,S3",38829
+939,".Net,Git",38372
+940,"Git,R",38191
+941,"Git,Pig",37979
+942,"Git,MongoDB",37828
+943,"Java,NoSQL",37696
+944,"NoSQL,S3",37117
+945,"Git,Oracle",37067
+946,"Git,SPSS",36782
+947,"Git,Machine Learning",36705
+948,"Git,Kafka",36657
+949,"Excel,MongoDB",36529
+950,"JavaScript,Linux",36504
+951,"Azure,NoSQL",36007
+952,"NoSQL,Scala",35874
+953,"NoSQL,PostgreSQL",35679
+954,"Java,JavaScript",35337
+955,"Git,Java",34938
+956,"Data Warehouse,NoSQL",34726
+957,"JavaScript,Python",34457
+958,"Azure,JavaScript",34422
+959,"Git,Software Development",34179
+960,"Git,Perl",34072
+961,"Business Intelligence,JavaScript",33782
+962,"AWS,Git",33706
+963,"Git,Microsoft Office",33683
+964,"Excel,NoSQL",33638
+965,"C/C++,Excel",33479
+966,"Git,Python",33330
+967,"JavaScript,PostgreSQL",33131
+968,"JavaScript,Scala",32633
+969,"Git,Linux",32325
+970,"Data Warehouse,JavaScript",32130
+971,"Excel,Git",31200
+972,"JavaScript,S3",30108
+973,"NoSQL,Python",29752
+974,"Git,Scala",28894
+975,"Business Intelligence,Git",28361
+976,"C/C++,MongoDB",28087
+977,"Git,PostgreSQL",27821
+978,"Azure,Git",27560
+979,"Data Warehouse,Git",27081
+980,"Excel,JavaScript",24891
+981,"Git,S3",24662
+982,"MongoDB,NoSQL",22731
+983,"C/C++,NoSQL",20084
+984,"JavaScript,MongoDB",18855
+985,"C/C++,JavaScript",18571
+986,"C/C++,Git",15829
+987,"JavaScript,NoSQL",11193
+988,"Git,NoSQL",5867
+989,"Git,JavaScript",2989
