@@ -1,0 +1,2231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-11-27">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="frequency" title="frequency" type="integer"></attribute>
+      <attribute id="type" title="type" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="SAS" label="SAS">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="322.04144" y="143.16902"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Microsoft SQL Server" label="Microsoft SQL Server">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-88.02637" y="99.51039"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="PostgreSQL" label="PostgreSQL">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-425.54083" y="136.75299"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Data Warehouse" label="Data Warehouse">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="95.19787" y="-97.119736"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Kafka" label="Kafka">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-142.36041" y="-439.5235"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Tableau" label="Tableau">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="39.310135" y="133.88809"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Machine Learning" label="Machine Learning">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-147.2487" y="-253.25491"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="MATLAB" label="MATLAB">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="146.69904" y="-262.56924"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Scripting" label="Scripting">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-171.35323" y="-7.621077"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="C/C++" label="C/C++">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="277.66745" y="-1.8897362"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="R" label="R">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-240.76402" y="139.92673"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="NoSQL" label="NoSQL">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="360.41272" y="-253.48692"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Excel" label="Excel">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="87.60254" y="440.7473"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="JavaScript" label="JavaScript">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-246.31978" y="-143.39029"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="MySQL" label="MySQL">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="9.28141" y="-206.9031"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Oracle" label="Oracle">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="238.36882" y="-141.37125"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="AWS" label="AWS">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-0.73100996" y="-3.0566"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Python" label="Python">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="177.09933" y="181.53058"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="TensorFlow" label="TensorFlow">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-79.75474" y="-104.70272"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Java" label="Java">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-220.74567" y="381.88672"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Azure" label="Azure">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="204.26498" y="340.60846"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Scala" label="Scala">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="138.5049" y="31.709026"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Hadoop" label="Hadoop">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-15.789987" y="-351.26248"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Natural Language Processing" label="Natural Language Processing">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="451.1556" y="60.05047"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Big Data" label="Big Data">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-286.3562" y="-339.1942"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="AI" label="AI">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="34.94068" y="276.91824"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Microsoft Office" label="Microsoft Office">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="419.47217" y="-104.92434"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Perl" label="Perl">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-70.540115" y="410.817"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="SQL" label="SQL">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-326.9585" y="270.42886"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Pig" label="Pig">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-123.363594" y="240.07724"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="HBase" label="HBase">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-320.3057" y="1.1635286"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Hive" label="Hive">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-455.9672" y="-53.94311"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Git" label="Git">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="250.28232" y="-375.8004"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Linux" label="Linux">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="-390.6401" y="-212.48024"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Data Analysis" label="Data Analysis">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="90.9337" y="-452.63947"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Spark" label="Spark">
+        <attvalues>
+          <attvalue for="frequency" value="70"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.0"></viz:size>
+        <viz:position x="355.5562" y="290.45422"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1" source="Tableau" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="2" source="SAS" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="3" source="NoSQL" target="R" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="4" source="Scripting" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="5" source="MATLAB" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="6" source="Hive" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="7" source="HBase" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="8" source="Hadoop" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="9" source="TensorFlow" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="10" source="MySQL" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="11" source="Java" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="12" source="HBase" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="13" source="Scala" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="14" source="TensorFlow" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="15" source="PostgreSQL" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="16" source="Oracle" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="17" source="AI" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="18" source="Microsoft Office" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="19" source="Perl" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="20" source="Natural Language Processing" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="21" source="Pig" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="22" source="Microsoft Office" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="23" source="Machine Learning" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="24" source="Data Warehouse" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="25" source="PostgreSQL" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="26" source="TensorFlow" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="27" source="Excel" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="28" source="JavaScript" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="29" source="Python" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="30" source="Data Warehouse" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="31" source="TensorFlow" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="32" source="Tableau" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="33" source="Oracle" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="34" source="Perl" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="35" source="AWS" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="36" source="NoSQL" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="37" source="Linux" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="38" source="Scala" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="39" source="Oracle" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="40" source="AI" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="41" source="Natural Language Processing" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="43" source="R" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="44" source="Linux" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="45" source="Kafka" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="46" source="MATLAB" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="48" source="NoSQL" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="49" source="Big Data" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="50" source="Scripting" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="51" source="PostgreSQL" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="52" source="Microsoft Office" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="53" source="JavaScript" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="54" source="SQL" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="55" source="AWS" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="56" source="JavaScript" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="58" source="Oracle" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="59" source="Perl" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="60" source="AWS" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="61" source="PostgreSQL" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="62" source="Spark" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="63" source="Data Warehouse" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="64" source="Java" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="65" source="AI" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="66" source="SAS" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="67" source="Pig" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="68" source="SAS" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="69" source="C/C++" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="70" source="Microsoft Office" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="71" source="AI" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="72" source="MySQL" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="73" source="SQL" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="74" source="C/C++" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="75" source="AWS" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="76" source="Hadoop" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="77" source="Kafka" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="78" source="SAS" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="79" source="Scala" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="80" source="Scripting" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="81" source="Microsoft Office" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="83" source="Hadoop" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="84" source="Microsoft Office" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="85" source="R" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="86" source="R" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="88" source="Natural Language Processing" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="89" source="Hive" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="90" source="PostgreSQL" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="91" source="JavaScript" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="92" source="Spark" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="93" source="SAS" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="94" source="SAS" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="95" source="AWS" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="96" source="Perl" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="97" source="Big Data" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="98" source="Data Analysis" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="99" source="Spark" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="100" source="Machine Learning" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="101" source="Data Analysis" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="102" source="Azure" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="103" source="MATLAB" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="104" source="JavaScript" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="105" source="Natural Language Processing" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="106" source="AI" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="107" source="Pig" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="108" source="PostgreSQL" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="110" source="Machine Learning" target="R" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="111" source="C/C++" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="112" source="Microsoft SQL Server" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="113" source="SQL" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="114" source="Perl" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="115" source="R" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="116" source="Oracle" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="117" source="Data Analysis" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="118" source="MySQL" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="120" source="Oracle" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="121" source="Microsoft SQL Server" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="123" source="Scala" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="124" source="Microsoft Office" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="125" source="Azure" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="126" source="Perl" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="127" source="Java" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="128" source="Perl" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="129" source="MATLAB" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="130" source="HBase" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="131" source="Scala" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="132" source="Microsoft SQL Server" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="133" source="Python" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="134" source="Spark" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="135" source="NoSQL" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="136" source="MATLAB" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="137" source="Scripting" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="138" source="Hadoop" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="139" source="Big Data" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="140" source="Perl" target="R" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="141" source="Kafka" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="142" source="Perl" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="143" source="Natural Language Processing" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="144" source="R" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="145" source="AI" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="146" source="Hadoop" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="147" source="Oracle" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="148" source="Microsoft SQL Server" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="150" source="Scripting" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="151" source="MATLAB" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="152" source="Excel" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="153" source="PostgreSQL" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="154" source="Scripting" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="155" source="Natural Language Processing" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="156" source="Spark" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="157" source="Data Analysis" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="158" source="Hadoop" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="159" source="Data Analysis" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="160" source="R" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="161" source="JavaScript" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="162" source="Microsoft Office" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="163" source="Azure" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="164" source="Linux" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="165" source="Microsoft SQL Server" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="166" source="Java" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="167" source="C/C++" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="168" source="MATLAB" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="169" source="TensorFlow" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="170" source="Perl" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="171" source="Pig" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="172" source="Microsoft Office" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="173" source="Python" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="174" source="MATLAB" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="175" source="NoSQL" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="176" source="Kafka" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="177" source="Excel" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="178" source="Tableau" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="179" source="NoSQL" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="180" source="Pig" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="182" source="Git" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="184" source="Java" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="185" source="SQL" target="R" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="186" source="Pig" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="187" source="Excel" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="188" source="Perl" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="189" source="Natural Language Processing" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="190" source="Data Analysis" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="191" source="Pig" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="192" source="Machine Learning" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="193" source="JavaScript" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="194" source="Microsoft SQL Server" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="195" source="Data Analysis" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="196" source="SAS" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="199" source="Excel" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="200" source="Big Data" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="201" source="AI" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="203" source="Microsoft Office" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="204" source="R" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="208" source="Oracle" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="209" source="MATLAB" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="211" source="HBase" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="212" source="Hadoop" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="213" source="Microsoft SQL Server" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="215" source="Data Warehouse" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="216" source="JavaScript" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="217" source="Oracle" target="R" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="218" source="HBase" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="219" source="Microsoft SQL Server" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="220" source="Excel" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="221" source="Kafka" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="222" source="MATLAB" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="223" source="Spark" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="224" source="Data Warehouse" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="225" source="Big Data" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="226" source="Microsoft Office" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="229" source="Scripting" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="230" source="AI" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="231" source="Microsoft SQL Server" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="232" source="Excel" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="233" source="TensorFlow" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="234" source="PostgreSQL" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="235" source="Tableau" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="236" source="Scripting" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="237" source="Scala" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="239" source="SAS" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="241" source="Tableau" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="242" source="Data Warehouse" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="243" source="Microsoft SQL Server" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="244" source="Spark" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="245" source="Microsoft SQL Server" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="246" source="Data Analysis" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="247" source="Microsoft Office" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="248" source="Tableau" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="250" source="Hive" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="251" source="Azure" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="252" source="Perl" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="253" source="Azure" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="254" source="HBase" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="255" source="Perl" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="257" source="Spark" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="259" source="MySQL" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="260" source="Hive" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="261" source="Hadoop" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="262" source="Data Warehouse" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="263" source="Microsoft SQL Server" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="264" source="R" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="265" source="AWS" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="267" source="Kafka" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="268" source="Excel" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="269" source="MySQL" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="270" source="Java" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="271" source="Hive" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="272" source="TensorFlow" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="273" source="Linux" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="274" source="Microsoft Office" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="275" source="TensorFlow" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="276" source="TensorFlow" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="277" source="R" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="278" source="Java" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="279" source="Scripting" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="280" source="Pig" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="281" source="Machine Learning" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="283" source="AI" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="284" source="Microsoft Office" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="287" source="Tableau" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="288" source="SQL" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="289" source="Scripting" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="293" source="Natural Language Processing" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="298" source="Pig" target="R" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="299" source="Hadoop" target="R" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="301" source="HBase" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="302" source="Microsoft SQL Server" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="303" source="Natural Language Processing" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="304" source="SQL" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="305" source="Linux" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="306" source="Data Analysis" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="307" source="Microsoft Office" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="308" source="Excel" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="309" source="Machine Learning" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="310" source="C/C++" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="311" source="Spark" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="312" source="R" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="313" source="JavaScript" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="315" source="Pig" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="317" source="Kafka" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="318" source="Hive" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="319" source="C/C++" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="320" source="Natural Language Processing" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="322" source="Hadoop" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="323" source="Azure" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="325" source="Tableau" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="327" source="R" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="328" source="AI" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="329" source="TensorFlow" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="330" source="Natural Language Processing" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="331" source="Pig" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="332" source="Python" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="333" source="Oracle" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="336" source="Machine Learning" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="337" source="Kafka" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="339" source="Azure" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="340" source="MATLAB" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="341" source="Excel" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="342" source="Java" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="343" source="Big Data" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="344" source="Java" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="345" source="Natural Language Processing" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="347" source="Microsoft SQL Server" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="349" source="Tableau" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="350" source="PostgreSQL" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="351" source="Python" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="352" source="Scripting" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="353" source="SAS" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="354" source="Oracle" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="355" source="PostgreSQL" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="356" source="Python" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="357" source="Java" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="358" source="Data Analysis" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="359" source="NoSQL" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="360" source="Azure" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="362" source="AWS" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="364" source="Hive" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="366" source="Kafka" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="367" source="MATLAB" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="368" source="Scripting" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="369" source="Natural Language Processing" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="370" source="Azure" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="371" source="Java" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="372" source="Scala" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="373" source="NoSQL" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="374" source="Git" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="375" source="Python" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="377" source="MySQL" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="378" source="TensorFlow" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="379" source="Spark" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="380" source="C/C++" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="381" source="Hadoop" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="382" source="Scripting" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="383" source="Big Data" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="385" source="Linux" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="387" source="Kafka" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="389" source="MATLAB" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="395" source="Oracle" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="397" source="HBase" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="399" source="Scala" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="400" source="Kafka" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="402" source="SQL" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="403" source="Oracle" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="404" source="Microsoft Office" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="406" source="Spark" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="407" source="Excel" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="408" source="Kafka" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="410" source="Perl" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="411" source="Excel" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="413" source="SQL" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="415" source="Linux" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="416" source="HBase" target="R" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="417" source="AWS" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="418" source="Tableau" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="419" source="Scripting" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="421" source="Perl" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="422" source="Git" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="424" source="Git" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="425" source="Excel" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="426" source="AI" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="428" source="HBase" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="430" source="AI" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="431" source="Java" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="433" source="Git" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="434" source="Microsoft SQL Server" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="435" source="Linux" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="436" source="SQL" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="438" source="Big Data" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="439" source="Tableau" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="441" source="Microsoft Office" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="443" source="Scala" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="444" source="Excel" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="446" source="SQL" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="451" source="Machine Learning" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="452" source="Hadoop" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="453" source="AI" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="455" source="MySQL" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="456" source="Oracle" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="457" source="R" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="460" source="HBase" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="462" source="Perl" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="463" source="Hive" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="464" source="Data Warehouse" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="465" source="R" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="466" source="Natural Language Processing" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="467" source="Natural Language Processing" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="472" source="AI" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="474" source="Python" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="475" source="JavaScript" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="476" source="AWS" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="478" source="JavaScript" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="480" source="Data Warehouse" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="482" source="Machine Learning" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="485" source="Hadoop" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="486" source="C/C++" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="487" source="Big Data" target="R" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="488" source="C/C++" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="490" source="Scala" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="491" source="Data Analysis" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="493" source="R" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="496" source="Pig" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="497" source="Hive" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="498" source="HBase" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="500" source="HBase" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="501" source="C/C++" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="503" source="Oracle" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="506" source="C/C++" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="507" source="R" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="509" source="C/C++" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="510" source="Git" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="511" source="Spark" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="512" source="Data Analysis" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="515" source="Excel" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="519" source="Scripting" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="523" source="Microsoft Office" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="524" source="JavaScript" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="526" source="NoSQL" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="528" source="Tableau" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="530" source="Linux" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="531" source="Python" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="532" source="Git" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="534" source="R" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="536" source="Spark" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="539" source="AI" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="540" source="HBase" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="541" source="Python" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="543" source="Machine Learning" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="544" source="Scripting" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="546" source="Excel" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="550" source="Data Analysis" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="552" source="Kafka" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="553" source="PostgreSQL" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="554" source="Perl" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="555" source="Spark" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="556" source="AI" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="558" source="TensorFlow" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="562" source="Natural Language Processing" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="564" source="Hive" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="568" source="Java" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="569" source="R" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="570" source="MySQL" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="573" source="Scripting" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="574" source="Pig" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="577" source="Microsoft SQL Server" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="578" source="NoSQL" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="581" source="Linux" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="582" source="Git" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="583" source="Data Analysis" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="586" source="NoSQL" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="590" source="Hive" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="592" source="Pig" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="593" source="Linux" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="594" source="R" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="595" source="Spark" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="596" source="Java" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="597" source="TensorFlow" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="598" source="Git" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="600" source="R" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="605" source="MySQL" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="608" source="HBase" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="609" source="R" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="612" source="Microsoft SQL Server" target="R" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="613" source="Natural Language Processing" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="614" source="Hive" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="619" source="Python" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="621" source="Python" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="622" source="Hive" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="623" source="Data Warehouse" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="624" source="HBase" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="625" source="TensorFlow" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="628" source="AI" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="629" source="Azure" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="631" source="PostgreSQL" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="632" source="Linux" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="633" source="JavaScript" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="634" source="Hive" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="635" source="NoSQL" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="636" source="Tableau" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="637" source="TensorFlow" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="639" source="Big Data" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="642" source="Perl" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="646" source="Java" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="647" source="Pig" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="648" source="PostgreSQL" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="650" source="Java" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="653" source="TensorFlow" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="654" source="Scala" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="658" source="Spark" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="661" source="Scripting" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="663" source="Kafka" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="664" source="Data Warehouse" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="668" source="JavaScript" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="671" source="SQL" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="672" source="Machine Learning" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="673" source="Data Warehouse" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="674" source="SQL" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="676" source="Natural Language Processing" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="678" source="Big Data" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="680" source="NoSQL" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="683" source="Excel" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="686" source="PostgreSQL" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="689" source="PostgreSQL" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="692" source="Data Analysis" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="694" source="Tableau" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="696" source="Tableau" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="699" source="Big Data" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="700" source="Perl" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="701" source="MySQL" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="702" source="Excel" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="703" source="HBase" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="706" source="HBase" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="708" source="NoSQL" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="709" source="Azure" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="711" source="MATLAB" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="713" source="MySQL" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="714" source="Azure" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="716" source="MATLAB" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="718" source="Machine Learning" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="721" source="AWS" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="723" source="SAS" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="725" source="MATLAB" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="727" source="Big Data" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="728" source="Git" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="731" source="Linux" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="732" source="HBase" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="733" source="Scala" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="735" source="Machine Learning" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="737" source="AWS" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="738" source="Data Warehouse" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="743" source="Scala" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="744" source="Azure" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="748" source="Machine Learning" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="759" source="SAS" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="763" source="Linux" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="778" source="Azure" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="781" source="Git" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="782" source="Scripting" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="786" source="Hive" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="787" source="Hive" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="792" source="Excel" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="793" source="Python" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="795" source="HBase" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="798" source="SAS" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="799" source="Data Warehouse" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="803" source="AI" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="804" source="C/C++" target="SQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="805" source="SQL" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="807" source="Oracle" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="812" source="JavaScript" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="813" source="TensorFlow" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="818" source="Scripting" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="823" source="Kafka" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="825" source="Oracle" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="826" source="Pig" target="NoSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="827" source="AI" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="829" source="JavaScript" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="834" source="Perl" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="835" source="NoSQL" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="841" source="Azure" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="854" source="Hive" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="856" source="SAS" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="857" source="SAS" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="859" source="Big Data" target="HBase" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="866" source="Pig" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="867" source="R" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="868" source="Tableau" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="872" source="Microsoft SQL Server" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="875" source="Machine Learning" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="876" source="Spark" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="877" source="AI" target="Microsoft Office" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="878" source="Data Analysis" target="Python" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="880" source="TensorFlow" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="885" source="Tableau" target="Scala" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="887" source="Python" target="Hive" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="888" source="Data Analysis" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="890" source="TensorFlow" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="894" source="SAS" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="896" source="Machine Learning" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="904" source="TensorFlow" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="907" source="Machine Learning" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="911" source="Scala" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="913" source="C/C++" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="915" source="NoSQL" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="923" source="C/C++" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="925" source="R" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="927" source="R" target="MySQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="928" source="SQL" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="930" source="Machine Learning" target="Git" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="936" source="Microsoft Office" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="937" source="Tableau" target="Java" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="943" source="NoSQL" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="948" source="Kafka" target="R" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="957" source="Perl" target="Spark" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="967" source="Hadoop" target="Azure" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="972" source="Microsoft SQL Server" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="974" source="Data Analysis" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="979" source="Scripting" target="Linux" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="984" source="Azure" target="Pig" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="991" source="Hive" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="995" source="SQL" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="997" source="Microsoft Office" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="999" source="Python" target="Natural Language Processing" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1004" source="SQL" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1005" source="AWS" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1014" source="Hive" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1019" source="HBase" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1020" source="Git" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1025" source="TensorFlow" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1028" source="JavaScript" target="R" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1038" source="Data Analysis" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1039" source="PostgreSQL" target="SAS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1040" source="AI" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1045" source="Hadoop" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1047" source="MATLAB" target="Tableau" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1048" source="Machine Learning" target="Data Warehouse" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1081" source="C/C++" target="Big Data" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1082" source="JavaScript" target="Data Analysis" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1083" source="Python" target="Hadoop" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1100" source="MySQL" target="AWS" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1115" source="Microsoft Office" target="C/C++" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1126" source="Spark" target="TensorFlow" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1127" source="AWS" target="Oracle" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1137" source="Pig" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1161" source="Excel" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1163" source="AWS" target="PostgreSQL" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1164" source="Big Data" target="MATLAB" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1176" source="MySQL" target="JavaScript" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1177" source="Azure" target="Perl" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1179" source="Spark" target="AI" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1189" source="SQL" target="Kafka" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1193" source="Hive" target="Scripting" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1231" source="Oracle" target="Machine Learning" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="1245" source="Oracle" target="Excel" weight="2.0">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
