@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-11-27">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="frequency" title="frequency" type="integer"></attribute>
+      <attribute id="type" title="type" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="SAS" label="SAS">
+        <attvalues>
+          <attvalue for="frequency" value="10"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="18.88889"></viz:size>
+        <viz:position x="218.9557" y="-247.02603"></viz:position>
+        <viz:color r="231" g="205" b="207"></viz:color>
+      </node>
+      <node id="Microsoft SQL Server" label="Microsoft SQL Server">
+        <attvalues>
+          <attvalue for="frequency" value="38"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-226.66573" y="58.95926"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Hadoop" label="Hadoop">
+        <attvalues>
+          <attvalue for="frequency" value="20"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="-47.649162" y="-228.60406"></viz:position>
+        <viz:color r="225" g="153" b="152"></viz:color>
+      </node>
+      <node id="Natural Language Processing" label="Natural Language Processing">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="14.444445"></viz:size>
+        <viz:position x="30.987474" y="88.837364"></viz:position>
+        <viz:color r="234" g="226" b="229"></viz:color>
+      </node>
+      <node id="AI" label="AI">
+        <attvalues>
+          <attvalue for="frequency" value="24"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="34.444443"></viz:size>
+        <viz:position x="114.66965" y="-139.36128"></viz:position>
+        <viz:color r="222" g="131" b="130"></viz:color>
+      </node>
+      <node id="Kafka" label="Kafka">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.222222"></viz:size>
+        <viz:position x="-125.86593" y="193.26846"></viz:position>
+        <viz:color r="235" g="237" b="239"></viz:color>
+      </node>
+      <node id="Big Data" label="Big Data">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="280.04727" y="141.83034"></viz:position>
+        <viz:color r="237" g="248" b="251"></viz:color>
+      </node>
+      <node id="Tableau" label="Tableau">
+        <attvalues>
+          <attvalue for="frequency" value="26"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="36.666668"></viz:size>
+        <viz:position x="211.39644" y="27.005444"></viz:position>
+        <viz:color r="221" g="121" b="119"></viz:color>
+      </node>
+      <node id="Machine Learning" label="Machine Learning">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.222222"></viz:size>
+        <viz:position x="-206.98412" y="236.37877"></viz:position>
+        <viz:color r="235" g="237" b="239"></viz:color>
+      </node>
+      <node id="MATLAB" label="MATLAB">
+        <attvalues>
+          <attvalue for="frequency" value="14"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="23.333334"></viz:size>
+        <viz:position x="-199.03609" y="-204.22638"></viz:position>
+        <viz:color r="228" g="184" b="185" a="0.99607843"></viz:color>
+      </node>
+      <node id="SQL" label="SQL">
+        <attvalues>
+          <attvalue for="frequency" value="38"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="117.3027" y="228.49294"></viz:position>
+        <viz:color r="213" g="58" b="53"></viz:color>
+      </node>
+      <node id="Scripting" label="Scripting">
+        <attvalues>
+          <attvalue for="frequency" value="10"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="18.88889"></viz:size>
+        <viz:position x="-50.52618" y="10.620942"></viz:position>
+        <viz:color r="231" g="205" b="207"></viz:color>
+      </node>
+      <node id="Pig" label="Pig">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.222222"></viz:size>
+        <viz:position x="-37.381714" y="207.02779"></viz:position>
+        <viz:color r="235" g="237" b="239"></viz:color>
+      </node>
+      <node id="HBase" label="HBase">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="14.444445"></viz:size>
+        <viz:position x="-64.68192" y="116.816574"></viz:position>
+        <viz:color r="234" g="226" b="229"></viz:color>
+      </node>
+      <node id="R" label="R">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.222222"></viz:size>
+        <viz:position x="-257.44565" y="-102.70281"></viz:position>
+        <viz:color r="235" g="237" b="239"></viz:color>
+      </node>
+      <node id="Hive" label="Hive">
+        <attvalues>
+          <attvalue for="frequency" value="10"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="18.88889"></viz:size>
+        <viz:position x="83.03394" y="-293.7156"></viz:position>
+        <viz:color r="231" g="205" b="207"></viz:color>
+      </node>
+      <node id="MySQL" label="MySQL">
+        <attvalues>
+          <attvalue for="frequency" value="8"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="16.666668"></viz:size>
+        <viz:position x="63.11968" y="-7.018968"></viz:position>
+        <viz:color r="233" g="216" b="217"></viz:color>
+      </node>
+      <node id="Data Analysis" label="Data Analysis">
+        <attvalues>
+          <attvalue for="frequency" value="10"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="18.88889"></viz:size>
+        <viz:position x="-127.73876" y="-93.537384"></viz:position>
+        <viz:color r="231" g="205" b="207"></viz:color>
+      </node>
+      <node id="Spark" label="Spark">
+        <attvalues>
+          <attvalue for="frequency" value="8"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="16.666668"></viz:size>
+        <viz:position x="-16.078756" y="-93.66061"></viz:position>
+        <viz:color r="233" g="216" b="217"></viz:color>
+      </node>
+      <node id="Oracle" label="Oracle">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="12.222222"></viz:size>
+        <viz:position x="-88.74689" y="285.69678"></viz:position>
+        <viz:color r="235" g="237" b="239"></viz:color>
+      </node>
+      <node id="TensorFlow" label="TensorFlow">
+        <attvalues>
+          <attvalue for="frequency" value="10"></attvalue>
+          <attvalue for="type" value="Source; Target"></attvalue>
+        </attvalues>
+        <viz:size value="18.88889"></viz:size>
+        <viz:position x="273.3109" y="-119.004745"></viz:position>
+        <viz:color r="231" g="205" b="207"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1" source="Tableau" target="SQL" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="2" source="Hadoop" target="AI" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="3" source="Microsoft SQL Server" target="Hadoop" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="4" source="MySQL" target="Tableau" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="5" source="Data Analysis" target="AI" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="6" source="SQL" target="AI" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="7" source="Scripting" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="8" source="Hadoop" target="TensorFlow" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="9" source="Natural Language Processing" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="10" source="MATLAB" target="SAS" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="11" source="Tableau" target="HBase" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="12" source="Data Analysis" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="13" source="Natural Language Processing" target="Tableau" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="14" source="Microsoft SQL Server" target="Pig" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="15" source="AI" target="Hive" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="16" source="Machine Learning" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="17" source="Data Analysis" target="MATLAB" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="18" source="SQL" target="HBase" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="20" source="TensorFlow" target="AI" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="21" source="Natural Language Processing" target="SQL" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="22" source="Spark" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="23" source="Pig" target="SQL" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="24" source="MATLAB" target="SQL" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="26" source="HBase" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="29" source="SQL" target="SAS" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="30" source="SQL" target="R" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="31" source="Scripting" target="AI" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="32" source="Tableau" target="SAS" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="33" source="Tableau" target="AI" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="34" source="SQL" target="MySQL" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="35" source="MATLAB" target="Hadoop" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="36" source="Microsoft SQL Server" target="Tableau" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="38" source="Microsoft SQL Server" target="Kafka" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="40" source="Hadoop" target="Data Analysis" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="42" source="Microsoft SQL Server" target="SQL" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="43" source="Tableau" target="MATLAB" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="44" source="Hadoop" target="SQL" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="46" source="R" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="47" source="Microsoft SQL Server" target="AI" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="53" source="AI" target="MySQL" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="54" source="Scripting" target="SQL" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="55" source="SQL" target="Data Analysis" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="56" source="Tableau" target="Hive" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="59" source="Spark" target="SQL" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="60" source="MATLAB" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="61" source="Spark" target="AI" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="62" source="Microsoft SQL Server" target="SAS" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="66" source="Microsoft SQL Server" target="Hive" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="67" source="SQL" target="Kafka" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="69" source="Hive" target="Hadoop" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="71" source="Microsoft SQL Server" target="Oracle" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="72" source="Big Data" target="Tableau" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="73" source="Microsoft SQL Server" target="TensorFlow" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="74" source="MySQL" target="Microsoft SQL Server" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="80" source="Spark" target="Hadoop" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="82" source="SQL" target="Hive" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="89" source="SQL" target="TensorFlow" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="93" source="TensorFlow" target="Tableau" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="95" source="AI" target="MATLAB" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="96" source="SQL" target="Oracle" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="97" source="Hadoop" target="Tableau" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="98" source="Hadoop" target="Scripting" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="111" source="AI" target="SAS" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="122" source="Scripting" target="Tableau" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+      <edge id="126" source="SQL" target="Machine Learning" weight="2.0">
+        <viz:color r="130" g="130" b="130"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

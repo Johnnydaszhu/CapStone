@@ -1,19 +1,19 @@
 {
-  "date": "Wed Nov 27 17:22:29 EST 2019",
+  "date": "Wed Nov 27 23:08:19 EST 2019",
   "author": "jorgaf",
   "description": "File created by Loxa Web site exporter. http://www.j4loxa.com/sna/gephi/plugins/index.html",
   "graphs": [
     {
-      "name": "Workspace4",
-      "title": "Title to Workspace4",
+      "name": "Workspace5",
+      "title": "Title to Workspace5",
       "tip": "",
-      "nodes": "36",
-      "edges": "630",
+      "nodes": "21",
+      "edges": "65",
       "description": "",
       "imgColorDescription": "",
-      "graphfile": "Workspace4/Workspace4.csv",
-      "pdffile": "Workspace4/Workspace4.pdf",
-      "browsegraph": "Workspace4/Workspace4.gexf",
+      "graphfile": "Workspace5/Workspace5.csv",
+      "pdffile": "Workspace5/Workspace5.pdf",
+      "browsegraph": "Workspace5/Workspace5.gexf",
       "type": "Undirected",
       "metrics": [
         {
